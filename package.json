@@ -1,7 +1,10 @@
 {
   "name": "react-use-sizes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
+  "repository": {
+    "url": "https://github.com/denisrudov/react-use-sizes"
+  },
   "author": {
     "email": "denis.rudov@gmail.com",
     "name": "Denis Rudov",
