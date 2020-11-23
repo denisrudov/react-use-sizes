@@ -2,6 +2,11 @@
   "name": "react-use-sizes",
   "version": "1.0.2",
   "main": "dist/index.js",
+  "author": {
+    "email": "denis.rudov@gmail.com",
+    "name": "Denis Rudov",
+    "url": "https://t.me/drooidov"
+  },
   "license": "MIT",
   "scripts": {
     "build:all": "./node_modules/.bin/tsc",
