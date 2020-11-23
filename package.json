@@ -1,11 +1,10 @@
 {
   "name": "react-use-sizes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build:all": "./node_modules/.bin/tsc",
-    "prepare": "npm run build:all",
     "prepublish": "npm run build:all"
   },
   "types": "dist/index.d.ts",
